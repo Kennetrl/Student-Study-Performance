@@ -15,7 +15,7 @@ The dataset used is available on Kaggle:
  <li><strong>Correlation Between Subjects:</strong> A positive correlation was observed between scores in Reading, Writing, and Math.</li> 
  </ul>
  <h4>Dashboard 1</h4>
-<img src="https://github.com/Kennetrl/Student-Study-Performance/blob/main/img/dashboard1.png?raw=true" alt="Dashboard 1 bars" width="500">
+<img src="https://github.com/Kennetrl/Student-Study-Performance/blob/main/img/dashboard1.png?raw=true" alt="Dashboard 1 bars">
 
  <h4>Dashboard 2</h4>
-<img src="https://raw.githubusercontent.com/Kennetrl/Student-Study-Performance/refs/heads/main/img/dashboard2.png" alt="Dashboard 2 Scatters" width="500">
+<img src="https://raw.githubusercontent.com/Kennetrl/Student-Study-Performance/refs/heads/main/img/dashboard2.png" alt="Dashboard 2 Scatters">
