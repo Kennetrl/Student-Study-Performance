@@ -14,8 +14,8 @@ The dataset used is available on Kaggle:
 <li><strong>Gender Differences:</strong> Female students slightly outperformed male students, with an average score of 69.57 compared to 65.84 for males.</li>
  <li><strong>Correlation Between Subjects:</strong> A positive correlation was observed between scores in Reading, Writing, and Math.</li> 
  </ul>
- <h4>Dashboard 1</h4>
+ <h3>Dashboard 1</h3>
 <img src="https://github.com/Kennetrl/Student-Study-Performance/blob/main/img/dashboard1.png?raw=true" alt="Dashboard 1 bars">
 
- <h4>Dashboard 2</h4>
+ <h3>Dashboard 2</h3>
 <img src="https://raw.githubusercontent.com/Kennetrl/Student-Study-Performance/refs/heads/main/img/dashboard2.png" alt="Dashboard 2 Scatters">
